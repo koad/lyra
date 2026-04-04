@@ -6,14 +6,13 @@
 
 Freshly gestated. No active projects yet.
 
-**Host:** Currently on thinker. Intended for flowbie (content studio) — migration pending koad decision.
+**Host:** thinker — permanent until flowbie is fully set up (koad confirmed 2026-04-05)
 
 ## What's Next
 
 1. Sibyl research on music tools/APIs to complete (in progress)
 2. Vulcan: OBS browser-source MIDI controller build (koad/vulcan issue pending)
-3. koad decision: flowbie vs thinker as permanent host
-4. First brief from Faber → first cue sheet
+3. First brief from Faber → first cue sheet
 
 ## Workflow When Active
 

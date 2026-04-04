@@ -52,7 +52,7 @@ koad reviews → Lyra learns from what was actually used
 
 ## Host Note
 
-Lyra is intended for flowbie (the content studio machine) but gestated on thinker (2026-04-04). Migration to flowbie pending koad decision.
+Lyra runs on thinker. Will migrate to flowbie (content studio) once flowbie is properly set up — koad confirmed 2026-04-05.
 
 ## Trust
 
