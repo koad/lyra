@@ -10,6 +10,13 @@
 - **Email:** lyra@kingofalldata.com
 - **Repository:** github.com/koad/lyra
 
+## Custodianship
+
+- **Creator:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian type:** sole
+- **Scope authority:** full
+
 ## Role
 
 Music direction for the koad:io content pipeline.
