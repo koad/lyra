@@ -6,5 +6,7 @@
   "dispatch": {
     "color": "blue",
     "model": "sonnet"
-  }
+  },
+  "handle": "lyra",
+  "name": "Lyra"
 }

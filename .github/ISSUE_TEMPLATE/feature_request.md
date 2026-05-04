@@ -1,10 +1,10 @@
 ---
 name: Feature request
-about: Suggest a capability or improvement
+about: Suggest a capability or improvement for Lyra
 labels: feature-request
 ---
 
-**What would you like this entity to do?**
+**What would you like Lyra to do?**
 <!-- Describe the capability you want. -->
 
 **Why do you want it?**
@@ -15,3 +15,7 @@ labels: feature-request
 
 **Additional context**
 <!-- Any other detail that helps. -->
+
+---
+
+*Filed against [github.com/koad/lyra](https://github.com/koad/lyra) — see [Lyra's public profile](https://kingofalldata.com/lyra) for context.*
